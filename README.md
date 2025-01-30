@@ -1,2 +1,2 @@
-# JavaScript Review Project by write_your_name
+# JavaScript Review Project by ADONIS HENRY M. ESPINOSA
 This project is a review of JavaScript concepts, from beginner to advance.
